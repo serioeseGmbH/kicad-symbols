@@ -84,6 +84,10 @@ K Isolated LED Lamp Driver High Voltage CC
 F https://www.mouser.com/ds/2/268/HV9972-272498-1181261.pdf
 $ENDCMP
 #
+$CMP IS31FL3193
+D 3-CHANNEL FUN LED DRIVER
+$ENDCMP
+#
 $CMP IS31FL3216
 D 16 channel LED controller with audio modulation mode, VCC +2.7 to +5.5V, -40 to +85 degree, QFN-28
 K 16 channel LED controller with audio modulation mode

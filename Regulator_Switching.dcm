@@ -5274,6 +5274,14 @@ K Step-Down DC-DC Converter
 F http://www.ti.com/lit/ds/symlink/tps62201.pdf
 $ENDCMP
 #
+$CMP TPS63050RMW
+D Single Inductor Buck-Boost With 1-A Switches and Adjustable Soft Start
+$ENDCMP
+#
+$CMP TPS63050YFF
+D Single Inductor Buck-Boost With 1-A Switches and Adjustable Soft Start
+$ENDCMP
+#
 $CMP TPS63060
 D Buck-Boost Converter, 2.5-12V Input Voltage, 2-A Switch Current, Adjustable 2.5-8V Output Voltage, S-PWSON-N10
 K Buck-Boost adjustable converter
