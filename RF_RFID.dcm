@@ -6,6 +6,12 @@ K nfc
 F https://www.mouser.de/ds/2/588/AS3956_DS000546_4-00-1274584.pdf
 $ENDCMP
 #
+$CMP AS3956-ATWx-S4
+D NFC Forum Compliant Dynamic Tag
+K nfc
+F https://www.mouser.de/ds/2/588/AS3956_DS000546_4-00-1274584.pdf
+$ENDCMP
+#
 $CMP HTRC11001T
 D HITAG RF Reader Device, SOIC-14
 K HITAG RFID
